@@ -5,7 +5,7 @@
 |--|--|--|---|----|
 |01|資財系|吳振豪|[利用機器學習找尋比特幣的交易訊號](https://hackmd.io/j689TJyURoyzj8APTabEyQ)|:apple:|
 |02|管科系|姚奕慈|[line聊天小助理：彙整你們的聊天記錄](https://hackmd.io/qLyJRYqpQdqnqPZL6dlNpg)|:apple:|
-|03|財金所|楊子逸|[LPPL 模型預測金融商品泡沫化](https://hackmd.io/jCUpZdTBTh-vdkdE2XYCXw)|:apple:|
+|03|財金所|楊子逸|[Pairs trading with Ornstein-Uhlenbeck process in crypto market](https://hackmd.io/jCUpZdTBTh-vdkdE2XYCXw)|:apple:|
 |04|資財系|羅名志|[化合物分子結構比對系統](https://hackmd.io/cPOgv3LjRuiiY9vnrShX8g)|:apple:|
 |05|管科系/財金所|廖川立、鄭棣升、何維|[玉山商業競賽-防制洗錢](https://hackmd.io/z1VPBFxSTOG-sbiCni78wg)|:apple:
 |06|財金所|郭忻平、陳泂暉|[波動度預測與交易](https://hackmd.io/VuRmzu37TrWzKeUQQd0Bhw)|:apple:
